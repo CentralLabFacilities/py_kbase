@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>py_kbase</name>
+  <version>0.0.1</version>
+  <description>Knowledge Base with internal database.</description>
+  <maintainer email="dleins@techfak.uni-bielefeld.de">David Leins</maintainer>
+  <author>David Leins</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>rospy</depend>
+  <depend>py_kbase_msgs</depend>
+  
+</package>

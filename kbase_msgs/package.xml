@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>py_kbase_msgs</name>
+  <version>0.0.1</version>
+  <description>py_kbase messages</description>
+  <maintainer email="dleins@techfak.uni-bielefeld.de">David Leins</maintainer>
+
+  <author>David Leins</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>message_generation</build_depend>
+
+  <depend>geometry_msgs</depend>
+  <depend>std_msgs</depend>
+
+  <exec_depend>message_runtime</exec_depend>
+  
+</package>

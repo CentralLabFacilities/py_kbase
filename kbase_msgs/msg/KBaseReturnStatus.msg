@@ -1,0 +1,7 @@
+uint8 OK=0
+uint8 COULD_NOT_DUMP_FILE=1
+uint8 REF_NOT_FOUND=2
+uint8 FILE_NOT_FOUND=3
+uint8 INVALID_PATH=4
+
+uint8 code
